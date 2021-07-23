@@ -1,3 +1,3 @@
 # pic-gallery
 Photo Gallery...
-Click here to view https://rahmanharoon.github.io/pic-gallery/
+Click here to view https://rahmanharoon.github.io/photo-gallery/
